@@ -8,3 +8,7 @@ to use it, simply use the runFMM function by giving it as parameters :
 - p : an Integer limiting the number of terms inside the infinite sum
 - n : the number of levels the FMM runs on
 The function returns the time it took to do the FMM and modifies the pot values of the Point objects of data
+
+# References
+- https://math.nyu.edu/~greengar/shortcourse_fmm.pdf
+- https://web.stanford.edu/class/cme324/classics/greengard-rokhlin.pdf
