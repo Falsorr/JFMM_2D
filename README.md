@@ -1,5 +1,6 @@
 # JFMM_3D
 A implementation of the fast multipole method in 3D using spherical harmonics in Julia
+THIS IS A WORK IN PROGRESS, THE PROGRAM ISN'T FINISHED AND SHOULDN'T BE TREATED AS A CORRECT IMPLEMENTATION 
 
 # Usage of n.jl
 The program in itself is a toy program that randomly generates data inside a cube of 1x1x1 but can be used to work with any dataset.
